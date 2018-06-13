@@ -1,2 +1,2 @@
 # foobar
-Google foobar
+Google foobar. Now with baz!
